@@ -1,3 +1,7 @@
+Forked to clarify the sentence: 
+"Did you add youself to group input and log out/in?" to "group input and then log out and than log back in". THere's no log out/ni group. Wound up fiddling around until and removed myself from sudo, then realised I had to re login, then forgot I messed up groups and wound up locked out of root becasue my root was disabled. Nice.
+
+
 ### LIBINPUT-GESTURES
 
 [Libinput-gestures][REPO] is a utility which reads [libinput
